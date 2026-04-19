@@ -6,3 +6,11 @@ A machine learning project that predicts whether a passenger survived the Titani
 
 Key Concepts:
 Data Preprocessing, Feature Engineering, Classification Models, Data Visualization, Machine Learning Pipeline
+
+🚀 Spaceship Titanic - Passenger Transport Prediction
+
+Description:
+A machine learning project that predicts whether a passenger was transported to another dimension in the Spaceship Titanic incident. The project includes data preprocessing, exploratory data analysis, feature engineering, and training multiple classification models to identify the best performing algorithm. Cross-validation is used to ensure reliable model evaluation, and the final model is used to generate predictions for Kaggle submission.
+
+Key Concepts:
+Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Classification Models, Cross-Validation, Machine Learning Pipeline, Model Evaluation
