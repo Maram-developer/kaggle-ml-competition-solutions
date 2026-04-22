@@ -1,4 +1,4 @@
-# ML
+# kaggle-ml-competition-solutions
 ✨ Titanic Survival Prediction using Machine Learning
 
 Description:
